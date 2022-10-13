@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently looking for **full stack engineering roles**
 
+- 📍 Currently Based in **Los Angeles, CA**
+
 - 💬 Ask me about **anything web dev**
 
 - 📫 How to reach me **danielczweig@gmail.com**
