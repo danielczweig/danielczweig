@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **full stack engineering roles**
 
-- 📍 Based in **Los Angeles, CA**
+- 📍 Based in **San Francisco, CA**
 
 - 💬 Ask me about **anything web dev**
 
